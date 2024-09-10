@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\infrastructure\\appbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\infrastructure\\appbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\data\\booksystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\data\\booksystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -50,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +74,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Program.cs",
+              "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Program.cs",
+              "RelativeToolTip": "BookShoppingSystemMVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:31:53.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Constants\\Roles.cs",
+              "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Constants\\Roles.cs",
+              "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Constants\\Roles.cs",
+              "RelativeToolTip": "BookShoppingSystemMVC\\Constants\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:30:43.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookSystemDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Data\\BookSystemDbContext.cs",
+              "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Data\\BookSystemDbContext.cs",
+              "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Data\\BookSystemDbContext.cs",
+              "RelativeToolTip": "BookShoppingSystemMVC\\Data\\BookSystemDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:25:44.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AppBuilderExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Infrastructure\\AppBuilderExtension.cs",
+              "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Infrastructure\\AppBuilderExtension.cs",
+              "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Infrastructure\\AppBuilderExtension.cs",
+              "RelativeToolTip": "BookShoppingSystemMVC\\Infrastructure\\AppBuilderExtension.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwBMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:22:27.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Views\\Shared\\_Layout.cshtml",
@@ -66,12 +134,11 @@
               "RelativeToolTip": "BookShoppingSystemMVC\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAADQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-10T14:15:52.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T14:15:52.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Views\\Shared\\_LoginPartial.cshtml",
@@ -84,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Views\\Home\\Index.cshtml",
@@ -92,12 +159,11 @@
               "RelativeToolTip": "BookShoppingSystemMVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-10T14:13:11.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T14:13:11.966Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ShoppingCart.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Models\\ShoppingCart.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Models\\ShoppingCart.cs",
@@ -105,12 +171,11 @@
               "RelativeToolTip": "BookShoppingSystemMVC\\Models\\ShoppingCart.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T14:00:26.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T14:00:26.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "OrderStatus.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Models\\OrderStatus.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Models\\OrderStatus.cs",
@@ -122,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Models\\OrderDetail.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Models\\OrderDetail.cs",
@@ -134,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Models\\Order.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Models\\Order.cs",
@@ -146,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Genre.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Models\\Genre.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Models\\Genre.cs",
@@ -158,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "CartDetail.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Models\\CartDetail.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Models\\CartDetail.cs",
@@ -170,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Models\\Book.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Models\\Book.cs",
