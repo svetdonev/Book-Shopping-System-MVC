@@ -5,10 +5,14 @@ namespace BookShoppingSystemMVC.Models
     public class BookCreateRequest
     {
         [Required]
+        [Display(Name = "Book Name")]
         public string BookName { get; init; }
 
         [Required]
+        [Display(Name = "Book Author")]
         public string BookAuthor { get; init; }
+
+        [Display(Name = "Book Price")]
         public double BookPrice { get; init; }
 
         [Required]
