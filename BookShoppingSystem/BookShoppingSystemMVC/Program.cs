@@ -1,11 +1,18 @@
 using BookShoppingSystemMVC.Data;
 using BookShoppingSystemMVC.Infrastructure;
+using BookShoppingSystemMVC.Mapping;
+using BookShoppingSystemMVC.Repositories;
+using BookShoppingSystemMVC.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+
+builder.Services.AddAutoMapper(typeof(BookMappingProfile));
+builder.Services.AddScoped<IBookService, BookService>();
+builder.Services.AddScoped<IBookRepository, BookRepository>();
 builder.Services.AddDbContext<BookSystemDbContext>(options =>
     options.UseSqlServer(connectionString));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();

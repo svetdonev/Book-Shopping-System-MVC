@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GXlyiA4Cvz72ymbUoMFNGndYD+Zwozx+uFVeb3l/FVZvvKrsj6VHB17EFCjkHklgCLZmt2jp4RyoK/+H7rXatQ==",
+  "dgSpecHash": "ctSw903YXuWcxSuO71t6D5MjL2349e/HohPRILAjd9MXdo49RhkULd0tDx5wa7LKq+I1bZxBnbSY5oNct6uwvQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Svetlio\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Svetlio\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Svetlio\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\Svetlio\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
