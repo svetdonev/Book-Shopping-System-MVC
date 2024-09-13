@@ -7,15 +7,16 @@ namespace BookShoppingSystemMVC.Mapping
     {
         public BookMappingProfile()
         {
-            this.CreateMap<Book, BookDto>()
-                .ForMember(dest => dest.Genre, opt => opt.MapFrom(src => src.Genre))
-                .ForMember(dest => dest.BookName, opt => opt.MapFrom(src => src.BookName))
-                .ForMember(dest => dest.AuthorName, opt => opt.MapFrom(src => src.AuthorName))
-                .ForMember(dest => dest.BookImage, opt => opt.MapFrom(src => src.BookImage))
-                .ForMember(dest => dest.BookPrice, opt => opt.MapFrom(src => src.BookPrice));
+            CreateMap<BookCreateRequest, Book>()
+            .ForMember(dest => dest.Id, opt => opt.Ignore())
+            .ForMember(dest => dest.Genre, opt => opt.Ignore()); // Handle Genre in the service
 
-            this.CreateMap<Genre, GenreDto>()
-                .ForMember(dest => dest.Name, opt => opt.MapFrom(src => src.GenreName));
+            CreateMap<Book, BookDto>()
+                .ForMember(dest => dest.Genre, opt => opt.MapFrom(src => src.Genre));
+
+            CreateMap<Genre, GenreDto>()
+                .ForMember(dest => dest.Id, opt => opt.MapFrom(src => src.Id))
+                .ForMember(dest => dest.Name, opt => opt.MapFrom(src => src.Name));
         }
     }
 }

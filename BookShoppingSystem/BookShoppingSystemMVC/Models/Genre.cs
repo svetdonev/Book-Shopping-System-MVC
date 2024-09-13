@@ -10,7 +10,7 @@ namespace BookShoppingSystemMVC.Models
 
         [Required]
         [MaxLength(30)]
-        public string? GenreName { get; set; }
-        public List<Book> Books { get; set; }
+        public string Name { get; set; }
+        public List<Book> Books { get; set; } = new List<Book>();
     }
 }

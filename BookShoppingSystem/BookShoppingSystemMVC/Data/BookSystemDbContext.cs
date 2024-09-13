@@ -11,12 +11,24 @@ namespace BookShoppingSystemMVC.Data
         {
         }
 
-        public DbSet<Book> Books { get; set; }
-        public DbSet<CartDetail> CartDetails { get; set; }
-        public DbSet<Genre> Genres { get; set; }
-        public DbSet<Order> Orders { get; set; }
-        public DbSet<OrderDetail> OrderDetails { get; set; }
-        public DbSet<OrderStatus> OrderStatuses { get; set; }
-        public DbSet<ShoppingCart> ShoppingCarts { get; set; }
+        public DbSet<Book> Books { get; init; }
+        public DbSet<CartDetail> CartDetails { get; init; }
+        public DbSet<Genre> Genres { get; init; }
+        public DbSet<Order> Orders { get; init; }
+        public DbSet<OrderDetail> OrderDetails { get; init; }
+        public DbSet<OrderStatus> OrderStatuses { get; init; }
+        public DbSet<ShoppingCart> ShoppingCarts { get; init; }
+
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            builder
+                .Entity<Book>()
+                .HasOne(b => b.Genre)
+                .WithMany(b => b.Books)
+                .HasForeignKey(b => b.GenreId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            base.OnModelCreating(builder);
+        }
     }
 }

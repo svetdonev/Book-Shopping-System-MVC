@@ -4,7 +4,9 @@ namespace BookShoppingSystemMVC.Services
 {
     public interface IBookService
     {
-        Task<BookDto> CreateFragrance(BookCreateRequest request);
+        Task<BookDto> CreateBook(Book book);
         Task<IEnumerable<GenreDto>> GetBookGenres();
+        Task<IEnumerable<BookDto>> GetBooks(BookQuery bookQuery);
+        Task<Genre> GetGenreById(int id);
     }
 }

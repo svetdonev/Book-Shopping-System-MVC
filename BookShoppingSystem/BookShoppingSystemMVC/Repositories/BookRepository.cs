@@ -12,8 +12,7 @@ namespace BookShoppingSystemMVC.Repositories
         {
             await dbContext.Books.AddAsync(book);
             await dbContext.SaveChangesAsync();
-
-            return new BookDto();
+            return mapper.Map<Book, BookDto>(book);
         }
 
         public async Task<IEnumerable<GenreDto>> GetBookGenres()
@@ -22,6 +21,38 @@ namespace BookShoppingSystemMVC.Repositories
             var genresDto = mapper.Map<List<GenreDto>>(genres);
 
             return genresDto;
+        }
+
+        public async Task<IEnumerable<BookDto>> GetBooks(BookQuery bookQuery)
+        {
+            var query = dbContext.Books
+                .Include(f => f.Genre)
+                .AsQueryable();
+
+            if (bookQuery.GenreId.HasValue)
+            {
+                query = query.Where(f => f.GenreId == bookQuery.GenreId.Value);
+            }
+
+            if (!string.IsNullOrEmpty(bookQuery.SearchTerm))
+            {
+                query = query.Where(f => f.Name.Contains(bookQuery.SearchTerm));
+            }
+
+            bookQuery.TotalBooks = await query.CountAsync();
+
+            query = query
+                .Skip((bookQuery.CurrentPage - 1) * BookQuery.BooksPerPage)
+                .Take(BookQuery.BooksPerPage);
+
+            var fragrances = await query.AsNoTracking().ToListAsync();
+
+            return mapper.Map<List<Book>, List<BookDto>>(fragrances);
+        }
+
+        public async Task<Genre> GetGenreById(int id)
+        {
+            return await dbContext.Genres.FindAsync(id);
         }
     }
 }

@@ -3,12 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\views\\book\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\views\\book\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\infrastructure\\appbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\infrastructure\\appbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Data\\Migrations\\20240913160838_Update-Models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookShoppingSystemMVC\\Data\\Migrations\\20240913160838_Update-Models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\data\\booksystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\data\\booksystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\mapping\\bookmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\mapping\\bookmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\models\\bookcreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\models\\bookcreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\views\\book\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\views\\book\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\models\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\models\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\models\\bookquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\models\\bookquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\models\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,60 +87,12 @@
       "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\infrastructure\\appbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\infrastructure\\appbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\mapping\\bookmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\mapping\\bookmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\models\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\models\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\data\\booksystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\data\\booksystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -97,6 +113,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|c:\\users\\svetlio\\documents\\github\\book-shopping-system-mvc\\bookshoppingsystem\\bookshoppingsystemmvc\\views\\book\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72C4E248-DAF9-4982-B970-A295A6853422}|BookShoppingSystemMVC\\BookShoppingSystemMVC.csproj|solutionrelative:bookshoppingsystemmvc\\views\\book\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,142 +134,204 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "20240913160838_Update-Models.cs",
+              "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Data\\Migrations\\20240913160838_Update-Models.cs",
+              "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Data\\Migrations\\20240913160838_Update-Models.cs",
+              "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Data\\Migrations\\20240913160838_Update-Models.cs",
+              "RelativeToolTip": "BookShoppingSystemMVC\\Data\\Migrations\\20240913160838_Update-Models.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:08:38.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BookShoppingSystemMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T20:41:25.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BookShoppingSystemMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T20:41:21.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "All.cshtml",
+              "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Views\\Book\\All.cshtml",
+              "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Views\\Book\\All.cshtml",
+              "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Views\\Book\\All.cshtml",
+              "RelativeToolTip": "BookShoppingSystemMVC\\Views\\Book\\All.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T18:45:59.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Models\\BookQuery.cs",
+              "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Models\\BookQuery.cs",
+              "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Models\\BookQuery.cs",
+              "RelativeToolTip": "BookShoppingSystemMVC\\Models\\BookQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:38:52.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Views\\Book\\Add.cshtml",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Views\\Book\\Add.cshtml",
               "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Views\\Book\\Add.cshtml",
               "RelativeToolTip": "BookShoppingSystemMVC\\Views\\Book\\Add.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAABkAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAC8AAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T18:14:21.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T18:14:21.583Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "BookController.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Controllers\\BookController.cs",
               "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Controllers\\BookController.cs",
               "RelativeToolTip": "BookShoppingSystemMVC\\Controllers\\BookController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAuwCQAAAArAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAwDMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T15:25:43.88Z"
+              "WhenOpened": "2024-09-11T15:25:43.88Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "BookCreateRequest.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Models\\BookCreateRequest.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Models\\BookCreateRequest.cs",
               "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Models\\BookCreateRequest.cs",
               "RelativeToolTip": "BookShoppingSystemMVC\\Models\\BookCreateRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwAYAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T15:20:52.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T15:20:52.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "BookRepository.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Repositories\\BookRepository.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Repositories\\BookRepository.cs",
               "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Repositories\\BookRepository.cs",
               "RelativeToolTip": "BookShoppingSystemMVC\\Repositories\\BookRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T15:14:18.701Z"
+              "WhenOpened": "2024-09-11T15:14:18.701Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "IBookRepository.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Repositories\\IBookRepository.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Repositories\\IBookRepository.cs",
               "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Repositories\\IBookRepository.cs",
               "RelativeToolTip": "BookShoppingSystemMVC\\Repositories\\IBookRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T15:14:05.52Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "IBookService.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Services\\IBookService.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Services\\IBookService.cs",
               "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Services\\IBookService.cs",
               "RelativeToolTip": "BookShoppingSystemMVC\\Services\\IBookService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T15:14:52.707Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "BookService.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Services\\BookService.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Services\\BookService.cs",
               "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Services\\BookService.cs",
               "RelativeToolTip": "BookShoppingSystemMVC\\Services\\BookService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T15:14:43.238Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "BookMappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Mapping\\BookMappingProfile.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Mapping\\BookMappingProfile.cs",
               "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Mapping\\BookMappingProfile.cs",
               "RelativeToolTip": "BookShoppingSystemMVC\\Mapping\\BookMappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswBEAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T15:05:48.041Z"
+              "WhenOpened": "2024-09-11T15:05:48.041Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "GenreDto.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Models\\GenreDto.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Models\\GenreDto.cs",
               "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Models\\GenreDto.cs",
               "RelativeToolTip": "BookShoppingSystemMVC\\Models\\GenreDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T15:04:23.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 18,
               "Title": "BookDto.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Models\\BookDto.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Models\\BookDto.cs",
               "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Models\\BookDto.cs",
               "RelativeToolTip": "BookShoppingSystemMVC\\Models\\BookDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T15:02:55.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T15:02:55.907Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Program.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Program.cs",
               "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Program.cs",
               "RelativeToolTip": "BookShoppingSystemMVC\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA9AAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T14:31:53.076Z"
+              "WhenOpened": "2024-09-10T14:31:53.076Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Roles.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Constants\\Roles.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Constants\\Roles.cs",
@@ -261,44 +343,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 4,
               "Title": "BookSystemDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Data\\BookSystemDbContext.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Data\\BookSystemDbContext.cs",
               "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Data\\BookSystemDbContext.cs",
               "RelativeToolTip": "BookShoppingSystemMVC\\Data\\BookSystemDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA4AAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA2wB4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T14:25:44.894Z"
+              "WhenOpened": "2024-09-10T14:25:44.894Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "AppBuilderExtension.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Infrastructure\\AppBuilderExtension.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Infrastructure\\AppBuilderExtension.cs",
               "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Infrastructure\\AppBuilderExtension.cs",
               "RelativeToolTip": "BookShoppingSystemMVC\\Infrastructure\\AppBuilderExtension.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABCAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T14:22:27.905Z"
+              "WhenOpened": "2024-09-10T14:22:27.905Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 19,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "BookShoppingSystemMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAwAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-10T14:15:52.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T14:15:52.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 20,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Views\\Shared\\_LoginPartial.cshtml",
@@ -310,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Views\\Home\\Index.cshtml",
@@ -322,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "ShoppingCart.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Models\\ShoppingCart.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Models\\ShoppingCart.cs",
@@ -334,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "OrderStatus.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Models\\OrderStatus.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Models\\OrderStatus.cs",
@@ -346,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Models\\OrderDetail.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Models\\OrderDetail.cs",
@@ -358,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Models\\Order.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Models\\Order.cs",
@@ -370,19 +453,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 8,
               "Title": "Genre.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Models\\Genre.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Models\\Genre.cs",
               "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Models\\Genre.cs",
               "RelativeToolTip": "BookShoppingSystemMVC\\Models\\Genre.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T13:59:55.894Z"
+              "WhenOpened": "2024-09-10T13:59:55.894Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "CartDetail.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Models\\CartDetail.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Models\\CartDetail.cs",
@@ -394,15 +478,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 7,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Models\\Book.cs",
               "RelativeDocumentMoniker": "BookShoppingSystemMVC\\Models\\Book.cs",
               "ToolTip": "C:\\Users\\Svetlio\\Documents\\GitHub\\Book-Shopping-System-MVC\\BookShoppingSystem\\BookShoppingSystemMVC\\Models\\Book.cs",
               "RelativeToolTip": "BookShoppingSystemMVC\\Models\\Book.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBIAAAAdAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T13:59:29.059Z"
+              "WhenOpened": "2024-09-10T13:59:29.059Z",
+              "EditorCaption": ""
             }
           ]
         }

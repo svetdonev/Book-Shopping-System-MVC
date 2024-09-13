@@ -4,12 +4,12 @@ namespace BookShoppingSystemMVC.Models
 {
     public class BookCreateRequest
     {
-        [Required]
+        [Required(ErrorMessage = "Book name is required.")]
         [Display(Name = "Book Name")]
         public string BookName { get; init; }
 
-        [Required]
         [Display(Name = "Book Author")]
+        [Required(ErrorMessage = "Author name is required.")]
         public string BookAuthor { get; init; }
 
         [Display(Name = "Book Price")]
@@ -20,6 +20,8 @@ namespace BookShoppingSystemMVC.Models
         [Display(Name = "Image URL")]
         public string ImageUrl { get; init; }
 
+
+        [Required(ErrorMessage = "Genre selection is required.")]
         [Display(Name = "Genre")]
         public int GenreId { get; init; }
         public IEnumerable<GenreDto> Genres { get; set; }

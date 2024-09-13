@@ -10,19 +10,16 @@ namespace BookShoppingSystemMVC.Models
 
         [Required]
         [MaxLength(50)]
-        public string? BookName { get; set; }
+        public string Name { get; set; }
 
         [Required]
         [MaxLength(50)]
-        public string? AuthorName { get; set; }
-        public string? BookImage { get; set; }
-        public double BookPrice { get; set; }
+        public string AuthorName { get; set; }
+        public string ImageUrl { get; set; }
+        public double Price { get; set; }
         public int GenreId { get; set; }
         public Genre Genre { get; set; }
         public List<OrderDetail> OrderDetail { get; set; }
         public List<CartDetail> CartDetail { get; set; }
-
-        [NotMapped]
-        public string GenreName { get; set; }
     }
 }

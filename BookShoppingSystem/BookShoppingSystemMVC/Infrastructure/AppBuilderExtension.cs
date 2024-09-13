@@ -32,15 +32,15 @@ namespace BookShoppingSystemMVC.Infrastructure
 
             data.Genres.AddRange(new[]
             {
-                new Genre { GenreName = "Adventure"},
-                new Genre { GenreName = "Mystery"},
-                new Genre { GenreName = "Comics"},
-                new Genre { GenreName = "Thriller"},
-                new Genre { GenreName = "Biography"},
-                new Genre { GenreName = "Horror"},
-                new Genre { GenreName = "Cooking"},
-                new Genre { GenreName = "Science"},
-                new Genre { GenreName = "Psychology"},
+                new Genre { Name = "Adventure"},
+                new Genre { Name = "Mystery"},
+                new Genre { Name = "Comics"},
+                new Genre { Name = "Thriller"},
+                new Genre { Name = "Biography"},
+                new Genre { Name = "Horror"},
+                new Genre { Name = "Cooking"},
+                new Genre { Name = "Science"},
+                new Genre { Name = "Psychology"},
             });
 
             data.SaveChanges();
