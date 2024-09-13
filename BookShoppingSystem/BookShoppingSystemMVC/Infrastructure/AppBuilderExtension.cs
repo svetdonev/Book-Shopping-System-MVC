@@ -9,7 +9,7 @@ namespace BookShoppingSystemMVC.Infrastructure
 {
     public static class AppBuilderExtension
     {
-        public static async Task<IApplicationBuilder> PrepareDatabase(this IApplicationBuilder app)
+        public static IApplicationBuilder PrepareDatabase(this IApplicationBuilder app)
         {
             var scopedServices = app.ApplicationServices.CreateScope();
             var data = scopedServices.ServiceProvider.GetService<BookSystemDbContext>();
@@ -17,7 +17,7 @@ namespace BookShoppingSystemMVC.Infrastructure
             data.Database.Migrate();
 
             SeedCategories(data);
-            await SeedDefaultData(scopedServices.ServiceProvider);
+            //await SeedDefaultData(scopedServices.ServiceProvider);
 
             return app;
         }

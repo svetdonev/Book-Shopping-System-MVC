@@ -24,7 +24,7 @@ builder.Services.AddIdentity<IdentityUser, IdentityRole>(options => options.Sign
     .AddDefaultTokenProviders();
 
 var app = builder.Build();
-await app.PrepareDatabase();
+app.PrepareDatabase();
 
 if (app.Environment.IsDevelopment())
 {
